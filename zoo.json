@@ -1,0 +1,51 @@
+{
+  "animals" : [ {
+    "name" : "Simba",
+    "age" : 12,
+    "health" : 90,
+    "hunger" : 35,
+    "type" : "Lion"
+  }, {
+    "name" : "Eli",
+    "age" : 4,
+    "health" : 95,
+    "hunger" : 30,
+    "type" : "Elephant"
+  }, {
+    "name" : "Shushu",
+    "age" : 5,
+    "health" : 100,
+    "hunger" : 25,
+    "type" : "Penguin"
+  }, {
+    "name" : "Snaky",
+    "age" : 6,
+    "health" : 100,
+    "hunger" : 20,
+    "type" : "Snake"
+  }, {
+    "name" : "Eliko",
+    "age" : 9,
+    "health" : 100,
+    "hunger" : 15,
+    "type" : "Elephant"
+  }, {
+    "name" : "Dani",
+    "age" : 10,
+    "health" : 100,
+    "hunger" : 10,
+    "type" : "Lion"
+  }, {
+    "name" : "Smoof",
+    "age" : 2,
+    "health" : 100,
+    "hunger" : 5,
+    "type" : "Snake"
+  }, {
+    "name" : "Snil",
+    "age" : 11,
+    "health" : 100,
+    "hunger" : 0,
+    "type" : "Snake"
+  } ]
+}
