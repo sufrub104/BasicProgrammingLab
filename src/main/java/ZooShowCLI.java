@@ -2,7 +2,6 @@ import java.util.Scanner;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.File;
-import java.util.Arrays;
 
 
 
@@ -80,7 +79,8 @@ public class ZooShowCLI {
                         return;
                     }
                     catch (Exception e) {
-                        e.printStackTrace();
+                        System.out.println("Can't write to zoo.json");
+                        return;
                     }
                 default:
                     System.out.println("Invalid choice");
